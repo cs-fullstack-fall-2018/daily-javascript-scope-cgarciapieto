@@ -20,3 +20,6 @@ C: ReferenceError: fname not defined
 D: fnamelname
 
 WRITE ANSWER HERE
+------------------
+I CHOOSE D:
+I CHOSE D BECAUSE ITS PRINTing THE SAMPLE AND THE SAMPLE IS RETURNING fname + lname
