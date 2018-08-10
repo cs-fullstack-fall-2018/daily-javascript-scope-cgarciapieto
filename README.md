@@ -24,3 +24,18 @@ WRITE ANSWER HERE
 I CHOOSE D:
 I CHOSE D BECAUSE ITS PRINTing THE SAMPLE AND THE SAMPLE IS RETURNING fname + lname
 -
+
+/*
+
+	KEY: CORRECT! Well Done!
+
+	Correct answer is 'D'
+
+	Even though the vars 'fname' and 'lname' show up in the code
+	after the function 'sample()' that uses them, the variables
+	get defined before the function is called.
+
+	The function sample() would return whatever the user entered at the 
+	prompts for fname + lname.
+
+*/ 
